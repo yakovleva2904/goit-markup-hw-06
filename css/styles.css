@@ -778,6 +778,7 @@ img {
     transition-property: border;
     transition-duration: 250ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+    resize: none;
 }
 
 .modal-form-input-comment:hover,
